@@ -71,7 +71,7 @@
             <!-- automatically creates the classpath using all project dependencies, 
               also adding the project build directory -->
             <classpath />
-            <argument>edu.cmu.cs.ziy.MedlineCitationIndexer</argument>
+            <argument>edu.cmu.cs.ziy.BcorgPostsIndexer</argument>
             <argument>${index.dir}</argument>
             <argument>${docs.dir}</argument>
           </arguments>
